@@ -10,7 +10,7 @@ export const environment = {
   projectId: "clips-4c90a",
   storageBucket: "clips-4c90a.appspot.com",
   appId: "1:389887726220:web:3091d4efdf88518cc621a9"
-};
+}
 };
 
 /*
